@@ -16,9 +16,13 @@ By clicking the "File -> Open" option, you can load any file that's recognized b
 Recognized file formats:
 
 .VGA: 64,000-byte 320 x 200 VGA picture file without image size and palette info
+
 .PAL: 768-byte VGA palette file
+
 .IMG: 64,768-byte 320 x 200 VGA picture file without image size and with palette info (found at the end of the file)
+
 .PIC: VGA image file. The 4-byte header determines the width & height of the image. The first 2 bytes indicate the width, the next 2 bytes the height.
+
 
 By clicking the "File -> Save As..." option, you can save your image, palette or image and palette to any of the above formats.
 Simply add the file extension to the filename and it will be saved in the desired format.
