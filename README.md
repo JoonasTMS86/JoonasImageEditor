@@ -14,6 +14,7 @@ VGA RGB values can be in the range 0 ... 63.
 By clicking the "File -> Open" option, you can load any file that's recognized by The Image Editor.
 
 Recognized file formats:
+
 .VGA: 64,000-byte 320 x 200 VGA picture file without image size and palette info
 .PAL: 768-byte VGA palette file
 .IMG: 64,768-byte 320 x 200 VGA picture file without image size and with palette info (found at the end of the file)
